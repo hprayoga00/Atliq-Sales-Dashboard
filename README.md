@@ -4,10 +4,10 @@
 * This project aims for creating an interactive dashboard for revenue analysis and profit analysis on that company
 * The dashboard result can be seen below
 
-![alt text](https://github.com/hprayoga00/Atliq-Sales-Dashboard/Dashboard - Revenue Analysis 01.PNG?raw=true)
-![alt text](https://github.com/hprayoga00/Atliq-Sales-Dashboard/Dashboard - Revenue Analysis 02.PNG?raw=true)
-![alt text](https://github.com/hprayoga00/Atliq-Sales-Dashboard/Dashboard - Revenue Analysis 03.PNG?raw=true)
+![alt text](https://github.com/hprayoga00/Atliq-Sales-Dashboard/blob/main/Dashboard%20-%20Revenue%20Analysis%2001.PNG?raw=true)
+![alt text](https://github.com/hprayoga00/Atliq-Sales-Dashboard/blob/main/Dashboard%20-%20Revenue%20Analysis%2002.PNG?raw=true)
+![alt text](https://github.com/hprayoga00/Atliq-Sales-Dashboard/blob/main/Dashboard%20-%20Revenue%20Analysis%2003.PNG?raw=true)
 
-![alt text](https://github.com/hprayoga00/Atliq-Sales-Dashboard/Dashboard - Profit Analysis 01.PNG?raw=true)
-![alt text](https://github.com/hprayoga00/Atliq-Sales-Dashboard/Dashboard - Profit Analysis 02.PNG?raw=true)
-![alt text](https://github.com/hprayoga00/Atliq-Sales-Dashboard/Dashboard - Profit Analysis 03.PNG?raw=true)
+![alt text](https://github.com/hprayoga00/Atliq-Sales-Dashboard/blob/main/Dashboard%20-%20Profit%20Analysis%2001.PNG?raw=true)
+![alt text](https://github.com/hprayoga00/Atliq-Sales-Dashboard/blob/main/Dashboard%20-%20Profit%20Analysis%2002.PNG?raw=true)
+![alt text](https://github.com/hprayoga00/Atliq-Sales-Dashboard/blob/main/Dashboard%20-%20Profit%20Analysis%2003.PNG?raw=true)
