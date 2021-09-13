@@ -1,1 +1,1 @@
-# Atlis-Sales-Dashboard
+# Atliq-Sales-Dashboard
